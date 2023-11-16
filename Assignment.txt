@@ -1,1 +1,3 @@
 Something very special.
+
+The other text file is cooler
